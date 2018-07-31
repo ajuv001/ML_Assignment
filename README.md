@@ -17,11 +17,13 @@ Project Pipeline
 
 •	Combined both reservation systems. Data structure is the same, hence need to match store_ids
 
-•	Merged air_reserve.csv and hpg_reserve.csv data
+•	Merged air_reserve.csv and hpg_reserve.csv data based on store_id_relation
+
+•	Added seperate column for vistor date of visit into month year and date for air_reserve.csv and hpg_reserve.csv
 
 •	Added weight to Date_info data
 
-•	Added day of the week and holiday flag to dataframes
+•	Added day of the week and holiday flag to date_info.csv
 
 •	Dropped duplicate data while merging the datas 
 
