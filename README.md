@@ -30,3 +30,13 @@ Project Pipeline
 •	Checked NaN in dataframes
 
 •	Defined date weighted mean function
+
+•	Checked NaN in final result
+
+•	Filled NaN using store_id and day_of_week
+
+•	Fitted the data using Linear regression
+
+•	Tried predicting the result using prdict function
+
+•	Stored final predication result in the ‘RestaurantVisitorsPredictionResult.csv’ file.
