@@ -39,4 +39,4 @@ Project Pipeline
 
 •	Tried predicting the result using prdict function
 
-•	Stored final predication result in the ‘RestaurantVisitorsPredictionResult.csv’ file.
+•	Stored final predication result in the ‘result.csv’ file.
